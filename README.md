@@ -33,3 +33,8 @@ What to do with a fresh repository checkout?
 --------------------------------------------
 Run the usual "./configure" then "make".  Finally copy the "seq42" binary (in the "src" directory) wherever you like.
 
+Status
+------
+As of 2015, I'm not actively developing or using seq42 (I started using Ableton Live on OS X, a pretty big switch after years of using Linux exclusively).
+
+You may want to check out [Stazed's fork of seq42](https://github.com/Stazed/seq42) which features numerous enhancements and is being actively developed.
